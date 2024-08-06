@@ -1,0 +1,6 @@
+@SOAP_Coffee_mobile_store_HostAddress = http://localhost:5159
+
+GET {{SOAP_Coffee_mobile_store_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
