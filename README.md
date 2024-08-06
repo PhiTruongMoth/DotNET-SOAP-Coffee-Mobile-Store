@@ -1,14 +1,30 @@
-### Đây là project cho môn Lập Trình .NET
 
-Đề tài project này là Xây dựng API SOAP bằng Framework ASP.NET cho Ứng dụng bán cà phê trên Mobile (Android)
+# Mobile Coffee Store Application - SOAP API
 
-Ứng dụng cà phê liên quan đến project https://github.com/tuan0919/coffee-mobile
+This project is part of the .NET Programming course. The aim of this project is to build a SOAP API using the ASP.NET Framework for a Mobile Coffee Store Application (Android).
 
-# Project .NET SDK :
-+ ASP .NET 8
+The related coffee application project can be found [here]([#](https://github.com/tuan0919/coffee-mobile)).
 
-# Project IDE :
-+ Visual Studio hay Visual Studio Code
+## Project .NET SDK
 
-# Database diagram:
-https://drive.google.com/file/d/1DF6kLdbr7OPlJJQuyPDbu95Be-l8B5WN/view?usp=sharing
+- ASP.NET 8
+
+## Project IDE
+
+- Visual Studio or Visual Studio Code
+
+## Database Diagram
+
+[Click here](https://drive.google.com/file/d/1DF6kLdbr7OPlJJQuyPDbu95Be-l8B5WN/view?usp=sharing).
+
+## Usage
+
+Once the API is running, it will listen for SOAP requests. You can interact with the API through the mobile coffee store application. Detailed documentation of the available endpoints and request/response formats can be found [here](#).
+
+## Contributing
+
+If you wish to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure that your code follows the project's coding standards and includes necessary tests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
