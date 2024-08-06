@@ -15,7 +15,7 @@ The related coffee application project can be found [here](https://github.com/tu
 
 ## Database Diagram
 
-[Click here](https://drive.google.com/file/d/1DF6kLdbr7OPlJJQuyPDbu95Be-l8B5WN/view?usp=sharing{:target="_blank"}).
+<a href="https://drive.google.com/file/d/1DF6kLdbr7OPlJJQuyPDbu95Be-l8B5WN/view?usp=sharing" target="_blank">here</a>.
 
 ## Usage
 
