@@ -3,7 +3,7 @@
 
 This project is part of the .NET Programming course. The aim of this project is to build a SOAP API using the ASP.NET Framework for a Mobile Coffee Store Application (Android).
 
-The related coffee application project can be found [here]([#](https://github.com/tuan0919/coffee-mobile)).
+The related coffee application project can be found [here](https://github.com/tuan0919/coffee-mobile).
 
 ## Project .NET SDK
 
@@ -19,7 +19,7 @@ The related coffee application project can be found [here]([#](https://github.co
 
 ## Usage
 
-Once the API is running, it will listen for SOAP requests. You can interact with the API through the mobile coffee store application. Detailed documentation of the available endpoints and request/response formats can be found [here](#).
+Once the API is running, it will listen for SOAP requests. You can interact with the API through the mobile coffee store application.
 
 ## Contributing
 
